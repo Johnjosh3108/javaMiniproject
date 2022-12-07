@@ -25,6 +25,34 @@ Java
 Hardware Requirements
 Hard Disk – 8 GB.
 RAM required – 512 GB (minimum)
-Mouse
-Keyboard
-Monitor
+
+Group Project:
+PRIYADHARSHINI R(21122070)
+GUDALA LAKSHMI PRASANNA(21122023)
+JOHN JOSHUA(21122029)
+
+Steps:
+1) Install netbeans
+2) For database , Install XAMPP server
+After done this follow the step that is given below:
+
+Step:
+
+1)open the netbeans.
+2)create a new project.
+3) Copy all the file that is given in netbeans folder.
+4)after copy right click on the source packages and paste here.
+5)now we are add the jar folder, so right click on libraries and select Add jar/folder then go to the that place where you store the downloaded file and select the add jar folder then open and  add the file ony by one.
+
+ Now we are create a database folder.
+Step:
+1) Open XAMPP server .
+2)Then click admin in mysql line.
+3) afte that click on new.
+4)Give the database folder name that is given in netbean folder.
+5)after that go to the netbeans project and right click on signup file .
+7)i am already created that table name so i can not create same table name but i give u example how to create a table name so you can create a new table and give column name.
+9) save the FILE 
+10)u will create all the table name that is given in the folder
+11) u do not need to create a customer table.
+
