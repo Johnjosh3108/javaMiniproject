@@ -56,3 +56,8 @@ Step:
 10)u will create all the table name that is given in the folder
 11) u do not need to create a customer table.
 
+GROUP MEMBERS CONTRIBUTIONS:
+1. John Joshua Obed- Worked on the front end and creation of login page in netbeans
+2. Priyadarshini- Worked on connecting the database server to netbeans
+3. Laxmi prasanna- Worked on  development of back end and the documentation of the project. 
+
